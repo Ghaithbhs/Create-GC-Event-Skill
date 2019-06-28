@@ -1,0 +1,16 @@
+{
+    "name": "Focus Event Skill",
+    "skillMetadata": {
+        "sections": [
+             {
+                "name": "Skill description",
+                "fields": [
+                    {
+                        "type": "label",
+                        "label": "This skill allows the HR Team of focus to create event and add them to the google calendar"
+                    }
+                ]
+            }
+        ]
+    }
+}

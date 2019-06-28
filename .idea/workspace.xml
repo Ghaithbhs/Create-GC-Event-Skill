@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b6a48ee-5b79-4f89-ab13-662fdf391d77" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1497">
+              <caret line="120" column="19" lean-forward="true" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dialog/en-us/eventAdded.dialog">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="71" lean-forward="true" selection-start-column="71" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vocab/en-us/querry.voc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settingsmeta.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>extract</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vocab/en-us/Room.voc" />
+        <option value="$PROJECT_DIR$/dialog/en-us/cafeteria.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Accounting.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Administration.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Friguia.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Logistics.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Management.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Bathroom.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Sbitla.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Tools.location.dialog" />
+        <option value="$PROJECT_DIR$/vocab/en-us/location.voc" />
+        <option value="$PROJECT_DIR$/dialog/en-us/success.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/new.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/update.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Hr.new.location.dialog" />
+        <option value="$PROJECT_DIR$/vocab/en-us/department.voc" />
+        <option value="$PROJECT_DIR$/dialog/en-us/It.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/SAP.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/first.floor.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/second.floor.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/third.floor.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/Hr.location.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/ground.floor.dialog" />
+        <option value="$PROJECT_DIR$/vocab/en-us/update_location.voc" />
+        <option value="$PROJECT_DIR$/dialog/en-us/bus.schedule.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/evening.bus.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/morning.bus.dialog" />
+        <option value="$PROJECT_DIR$/dialog/en-us/seat.number.dialog" />
+        <option value="$PROJECT_DIR$/vocab/en-us/bus.number.voc" />
+        <option value="$PROJECT_DIR$/vocab/en-us/evening.bus.voc" />
+        <option value="$PROJECT_DIR$/vocab/en-us/morning.bus.voc" />
+        <option value="$PROJECT_DIR$/vocab/en-us/seat.number.voc" />
+        <option value="$PROJECT_DIR$/dialog/en-us/bus.number.dialog" />
+        <option value="$PROJECT_DIR$/vocab/en-us/querry.voc" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/dialog/en-us/eventAdded.dialog" />
+        <option value="$PROJECT_DIR$/settingsmeta.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Create-GC-Event-Skill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Create-GC-Event-Skill" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Create-GC-Event-Skill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Create-GC-Event-Skill" type="462c0819:PsiDirectoryNode" />
+              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Create-GC-Event-Skill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Create-GC-Event-Skill" type="462c0819:PsiDirectoryNode" />
+              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+              <item name="en-us" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Create-GC-Event-Skill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Create-GC-Event-Skill" type="462c0819:PsiDirectoryNode" />
+              <item name="vocab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Create-GC-Event-Skill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Create-GC-Event-Skill" type="462c0819:PsiDirectoryNode" />
+              <item name="vocab" type="462c0819:PsiDirectoryNode" />
+              <item name="en-us" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../gcalendar_skill" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gaston\Desktop\focus-departments-skill\dialog\en-us" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b6a48ee-5b79-4f89-ab13-662fdf391d77" name="Default Changelist" comment="" />
+      <created>1556026722730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556026722730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1629055" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/Room.voc" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Administration.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Friguia.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Logistics.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Accounting.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Management.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Sbitla.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Tools.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Bathroom.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/location.voc" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/cafeteria.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/success.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/new.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/new_location.voc" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Hr.new.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/update.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/third.floor.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/ground.floor.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/It.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/first.floor.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/SAP.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/second.floor.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/Hr.location.dialog" />
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/department.voc" />
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/update_location.voc" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/morning.bus.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/seat.number.dialog" />
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/evening.bus.voc" />
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/morning.bus.voc" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/evening.bus.dialog" />
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/seat.number.voc" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/bus.schedule.dialog" />
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/bus.number.dialog">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/bus.number.voc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../gcalendar_skill/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="true" selection-end-line="334" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1497">
+          <caret line="120" column="19" lean-forward="true" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/en-us/eventAdded.dialog">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="71" lean-forward="true" selection-start-column="71" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vocab/en-us/querry.voc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settingsmeta.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
