@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b6a48ee-5b79-4f89-ab13-662fdf391d77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vocab/en-us/querry.voc" beforeDir="false" afterPath="$PROJECT_DIR$/vocab/en-us/querry.voc" afterDir="false" />
-    </list>
+    <list default="true" id="3b6a48ee-5b79-4f89-ab13-662fdf391d77" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +184,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1629055" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
