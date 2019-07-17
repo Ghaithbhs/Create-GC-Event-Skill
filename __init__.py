@@ -109,13 +109,18 @@ class CreateEvent(MycroftSkill):
         else:
             # needs to be verified !!!!!!!
             room = ""
+        notification = self.get_response('Would you like to notify the attendees about this action? Yes of No ?')
+        if notification == 'yes':
+            notif = True,
+        else:
+            notif = False
 
         mr = {'email': room}
         start = self.get_response('when does it start?')
         end = self.get_response('when does it end?')
         st = extract_datetime(start)
         et = extract_datetime(end)
-        invitation = self.get_response('would you like to invite an other employees to this meeting? Yes or No?')
+        invitation = self.get_response('would you like to invite an other employees to this event? Yes or No?')
         if invitation == 'yes':
             # getting the attendees
             atto = []
@@ -209,7 +214,7 @@ class CreateEvent(MycroftSkill):
             },
         }
 
-        event = service.events().insert(calendarId='primary', sendNotifications=True, body=event).execute()
+        event = service.events().insert(calendarId='primary', sendNotifications=notif, body=event).execute()
         print
         'Event created: %s' % (event.get('htmlLink'))
         self.speak_dialog('eventAdded')
